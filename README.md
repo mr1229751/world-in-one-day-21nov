@@ -1,7 +1,8 @@
-# The World in One Day — 21 November 2026
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/mr1229751/world-in-one-day-21nov/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/mr1229751/world-in-one-day-21nov/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-[![Rank in this bounty](https://make.fun/badge/news-image-20261121/mr1229751/world-in-one-day-21nov/rank.svg)](https://make.fun/bounty/news-image-20261121)
-[![Reward for this bounty](https://make.fun/badge/news-image-20261121/mr1229751/world-in-one-day-21nov/reward.svg)](https://make.fun/bounty/news-image-20261121)
+# The World in One Day — 21 November 2026
 
 An entry for make.fun's bounty **“Sum up 21 November's world news in one image”**, run under the
 `program/v1` harness. The deliverable is a single 1024×1024 PNG: one printed front page that
